@@ -1,0 +1,104 @@
+{
+    "ambiente": {
+        "url": "http://10.2.1.86:8190"
+    },
+    "usuarios": {
+        "solicitante": {
+            "solicitanteSCO": "EMICHELENA"
+        },
+        "analista": {
+            "analistaSCO": "EMICHELENA"
+        },
+        "autorizador": {
+            "autorizadorSCO": "EMICHELENA"
+        },
+        "gestor": {
+            "gestorPliego": "EMICHELENA"
+        },
+        "contrasena": "12345678"
+    },
+    "proyectoEjecutivo": {
+        "NOMBREPROYECTOEJECUTIVO": "PROYECTO DE AUTOMATIZACION",
+        "nombrerubro": [
+            "rubro uno",
+            "rubro 2",
+            "rubro 3",
+            "rubro 4",
+            "rubro 5",
+            "rubro 6"
+        ],
+        "NOMBREITEM": "UN ITEM"
+    },
+    "sco": {
+        "NOMBRE": "Marzo 8/3",
+        "OBJETO": "Objeto de la solicitud de contratacion269",
+        "TIPO": "Obra",
+        "ANALISTA_USERNAME": "EMICHELENA",
+        "UNIDAD_SOLICITANTE": "Organismo solicitante",
+        "PORCENTAJE_AF": "10",
+        "RUTA_ANEXO": "T:\\SEAC\\Verificar caracteres.doc",
+        "tieneAnticipoFinanciero": true,
+        "CODIGO_ITEMS": [
+            "2.1.1-2124.6",
+            "2.1.1-2124.7",
+            "2.1.1-2124.5",
+            "2.1.1-2124.1"
+        ],
+        "NOMBRE_FO": [
+            "FO uno",
+            "FO dos",
+            "FO tres",
+            "FO cuatro"
+        ],
+        "CANTIDAD": "1",
+        "PRECIO_UNITARIO": "100",
+        "FECHA_PREP_OFIC": "04/01/2019",
+        "LATITUD": "-25.321456",
+        "LONGITUD": "-11.254123",
+        "NOMBRE_TABLA": "Tabla 1",
+        "PRODUCTO": "Productos quÃ­micos",
+        "PORCENTAJE": "100"
+    },
+    "pliego": {
+        "NOMBREOBRA": "Pliego automatizado marzo12-7oBRA",
+        "TIPODECONTRATACION": "Obra",
+        "tipoEtapa": 0,
+        "sistemaDeContratacion": [
+            "UnidadMedida"
+        ],
+        "tipoadjudicacion": 1,
+        "tipodecotizacion": 1,
+        "moneda": "Peso Argentino",
+        "plazoMantenimientoDePropuesta": {
+            "CANTIDADDEDIAS": "30",
+            "tipodedias": "Días hábiles"
+        },
+        "direccion": "25 de Mayo 101. 2do Piso Oficina 228. Ciudad Autónoma de Buenos Aires",
+        "actoadministrativosade": "Pliego",
+        "anio": "2019",
+        "reparticion": "ONC#JGM",
+        "numero": "53829205",
+        "requisitoseconomicos": "Requisitos econÃ³micos y financieros",
+        "requisitostecnicos": "Requisitos tÃ©cnicos",
+        "requisitosadministrativos": "Requisitos administrativos",
+        "garantiadecumplimientodecontrato": "6",
+        "cantidaddias": "10",
+        "diasduracionobra": "1",
+        "unidaddetiempo": "Años",
+        "supervisor": "EMICHELENA",
+        "evaluadores": [
+            "EV Uno Proceso de Compras",
+            "EV Dos Proceso de Compras",
+            "EV Tres Proceso de Compras"
+        ],
+        "anoDeclaracionJurada": "2015",
+        "numeroDeclaracionJurada": "1",
+        "reparticionDeclaracionJurada": "1"
+    },
+    "nombres_po": [
+        "Proyecto uno",
+        "Proyecto dos",
+        "Proyecto tres",
+        "Proyecto cuatro"
+    ]
+}
